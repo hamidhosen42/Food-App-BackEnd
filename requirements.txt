@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+supabase
+pyjwt
+passlib
+sqlalchemy
+psycopg2
+pydantic
+python-dotenv
